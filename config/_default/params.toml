@@ -64,7 +64,8 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://azorus.xyz/\">Azorus</a>"
+#footer = "Powered by <a class=\"text-muted\" href=\"https://azorus.xyz/\">Azorus</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.reddit.com/r/ergonauts/comments/w707p4/treasure_hunt_with_nfts_erg_rewards/\">15) starts with R, ends with R, five letters, not US</a>."
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
